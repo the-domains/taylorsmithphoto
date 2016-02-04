@@ -1,0 +1,28 @@
+name: taylorsmithphoto
+favicon: null
+layout_spectrum: 0.4527516544330865
+typography_spectrum: 0.1581505259964615
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8566499995067716
+  lightness: 0.49398911255411804
+  saturation: 0.8822604627348483
+  rhythmicContrast: 0.4540701562073082
+purpose: []
